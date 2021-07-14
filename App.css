@@ -1,0 +1,33 @@
+body{
+ background-color:blanchedalmond;
+  align:center;
+
+}
+h1{
+  font-style: italic;
+  margin-top: 50px;
+}
+p{
+  color: blue;
+}
+h1 ,p{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+button{
+  padding: 5px;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid white;
+  cursor: pointer;
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  color: white;
+  background-color: black;
+ 
+}
+.buttondiv{
+  margin-left: 550px;
+}
